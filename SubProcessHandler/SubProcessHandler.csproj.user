@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>"katago-v1.8.1-opencl-windows-x64\katago.exe" contribute -override-config "serverUrl=https://katagotraining.org/","username=yzyray","password=turnon130","maxSimultaneousGames=1","includeOwnership=false","logGamesAsJson=true"</StartArguments>
+  </PropertyGroup>
+</Project>

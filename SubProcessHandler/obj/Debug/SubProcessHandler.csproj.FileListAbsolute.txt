@@ -1,0 +1,6 @@
+D:\c#\SubProcessHandler2\SubProcessHandler\SubProcessHandler\bin\Debug\SubProcessHandler.exe
+D:\c#\SubProcessHandler2\SubProcessHandler\SubProcessHandler\bin\Debug\SubProcessHandler.pdb
+D:\c#\SubProcessHandler2\SubProcessHandler\SubProcessHandler\obj\Debug\SubProcessHandler.csprojAssemblyReference.cache
+D:\c#\SubProcessHandler2\SubProcessHandler\SubProcessHandler\obj\Debug\SubProcessHandler.csproj.CoreCompileInputs.cache
+D:\c#\SubProcessHandler2\SubProcessHandler\SubProcessHandler\obj\Debug\SubProcessHandler.exe
+D:\c#\SubProcessHandler2\SubProcessHandler\SubProcessHandler\obj\Debug\SubProcessHandler.pdb
