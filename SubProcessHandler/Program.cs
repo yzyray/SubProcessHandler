@@ -71,7 +71,12 @@ namespace SubProcessHandler
                     else
                         if (a.Equals("fastquit"))
                     {
-                        RunningProcess.Kill();
+                        try {
+                            RunningProcess.Kill();
+                        }
+                        catch (Exception)
+                        {
+                        }
                     }
                     else
                     {
